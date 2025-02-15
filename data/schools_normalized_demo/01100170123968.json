@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170123968",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Community School for Creative Education",
+    "School Type": "Elementary Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "August 22, 2011",
+    "Educational Program Type": "Traditional",
+    "Low Grade": "K",
+    "High Grade": 8,
+    "Public School": "Yes",
+    "Charter Number": "1284",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "Yes",
+    "Federal Charter District ID": "0601691",
+    "NCES Federal School ID": "12844",
+    "Enrollment": 186,
+    "English Language Learners": {
+        "Count": 99,
+        "Percentage": 53.2
+    },
+    "Full Address": "2111 International Blvd. Oakland, CA 94606-4903",
+    "Street Address": "2111 International Blvd.",
+    "Address Line 2": "",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip Code": "94606-4903",
+    "Mailing Address": "2111 International Blvd. Oakland, CA 94606-4903",
+    "Phone Number": "(510) 686-4131",
+    "Fax Number": "Information Not Available",
+    "Email": "info@communityschoolforcreativeeducation.org",
+    "Web Address": "www.communityschoolforcreativeeducation.org",
+    "Administrators": [
+        {
+            "Name & Position": "Anayaxy Barraza Head of School",
+            "Phone": "(510) 424-4649",
+            "Email": "anayaxyb@communityschoolforcreativeeducation.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "August 8, 2024",
+    "Black Population Ratio": 0.21162921760167147
+}

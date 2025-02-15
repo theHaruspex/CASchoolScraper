@@ -1,0 +1,49 @@
+{
+    "CDS Code": "01100170129403",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Epic Charter",
+    "School Type": "Intermediate/Middle Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "August 25, 2014",
+    "Educational Program Type": "Traditional",
+    "Low Grade": 6,
+    "High Grade": 8,
+    "Public School": "Yes",
+    "Charter Number": "1632",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "Yes",
+    "Federal Charter District ID": "0602223",
+    "NCES Federal School ID": "13772",
+    "Enrollment": 0,
+    "English Language Learners": null,
+    "Full Address": "1045 Derby Ave. Oakland, CA 94601-2212",
+    "Street Address": "1045 Derby Ave.",
+    "Address Line 2": "",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip Code": "94601-2212",
+    "Mailing Address": "333 Hegenberger Rd., Ste. 600 Oakland, CA 94621",
+    "Phone Number": "(510) 689-2035",
+    "Fax Number": "(510) 904-6743",
+    "Email": "tday@efcps.net",
+    "Web Address": "www.efcps.net",
+    "Administrators": [
+        {
+            "Name & Position": "Larissa Adam Superintendent",
+            "Phone": "(510) 689-2035",
+            "Email": "cbo@efcps.net"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "April 24, 2024",
+    "Black Population Ratio": 0.21162921760167147
+}

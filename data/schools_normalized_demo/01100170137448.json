@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170137448",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Aurum Preparatory Academy",
+    "School Type": "Junior High Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "August 13, 2018",
+    "Educational Program Type": "Traditional",
+    "Low Grade": 6,
+    "High Grade": 8,
+    "Public School": "Yes",
+    "Charter Number": "1908",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": "0602459",
+    "NCES Federal School ID": "14335",
+    "Enrollment": 122,
+    "English Language Learners": {
+        "Count": 42,
+        "Percentage": 34.4
+    },
+    "Full Address": "1034 66th Ave. Oakland, CA 94621-3536",
+    "Street Address": "1034 66th Ave.",
+    "Address Line 2": "",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip Code": "94621-3536",
+    "Mailing Address": "1034 66th Ave. Oakland, CA 94621-3536",
+    "Phone Number": "(510) 746-7862",
+    "Fax Number": "Information Not Available",
+    "Email": "info@aurumprep.org",
+    "Web Address": "www.aurumprep.org",
+    "Administrators": [
+        {
+            "Name & Position": "Donnell Thomas Executive Director Ext. 3",
+            "Phone": "(510) 746-7862",
+            "Email": "donnell.thomas@aurumprep.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "September 11, 2024",
+    "Black Population Ratio": 0.21162921760167147
+}

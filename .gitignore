@@ -1,0 +1,5 @@
+data/schools/*
+data/schools_incremental/*
+data/schools_normalized/*
+data/schools_enriched/*
+logs/*

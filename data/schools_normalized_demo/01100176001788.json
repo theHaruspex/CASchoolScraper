@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100176001788",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Cox Academy",
+    "School Type": "Elementary Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "July 1, 1980",
+    "Educational Program Type": "Traditional",
+    "Low Grade": "K",
+    "High Grade": 5,
+    "Public School": "Yes",
+    "Charter Number": "0740",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": "0601718",
+    "NCES Federal School ID": "04257",
+    "Enrollment": 464,
+    "English Language Learners": {
+        "Count": 253,
+        "Percentage": 54.5
+    },
+    "Full Address": "9860 Sunnyside St. Oakland, CA 94603-2750",
+    "Street Address": "9860 Sunnyside St.",
+    "Address Line 2": "",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip Code": "94603-2750",
+    "Mailing Address": "333 Hegenberger Rd., Ste. 705 Oakland, CA 94621",
+    "Phone Number": "(510) 904-6300",
+    "Fax Number": "(510) 904-6377",
+    "Email": "cbo@efcps.net",
+    "Web Address": "www.efcps.org",
+    "Administrators": [
+        {
+            "Name & Position": "Larissa Adam Superintendent of Schools",
+            "Phone": "",
+            "Email": "ladam@efcps.net"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "August 8, 2024",
+    "Black Population Ratio": 0.21162921760167147
+}

@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170130419",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Alameda County Community",
+    "School Type": "County Community",
+    "Sector Type": "Public",
+    "Charter School": "No",
+    "Status": "Active",
+    "Open Date": "July 1, 1980",
+    "Educational Program Type": "County Community School",
+    "Low Grade": "K",
+    "High Grade": 12,
+    "Public School": "Yes",
+    "Charter Number": null,
+    "Charter Funding Type": null,
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Primarily Classroom",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": null,
+    "NCES Federal School ID": "06830",
+    "Enrollment": 58,
+    "English Language Learners": {
+        "Count": 22,
+        "Percentage": 37.9
+    },
+    "Full Address": "313 West Winton Ave. Hayward, CA 94544-1136",
+    "Street Address": "313 Winton Ave.",
+    "Address Line 2": "",
+    "City": "Hayward",
+    "State": "CA",
+    "Zip Code": "94544-1136",
+    "Mailing Address": "313 West Winton Ave. Hayward, CA 94544-1136",
+    "Phone Number": "(510) 670-4590",
+    "Fax Number": "(510) 670-4208",
+    "Email": "Information Not Available",
+    "Web Address": "www.acoe.org",
+    "Administrators": [
+        {
+            "Name & Position": "Jenaver Goodman Director Ext. 7683",
+            "Phone": "(510) 670-7683",
+            "Email": "jgoodman@acoe.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "August 8, 2024",
+    "Black Population Ratio": 0.09244901236550505
+}

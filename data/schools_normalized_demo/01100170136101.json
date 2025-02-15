@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170136101",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Connecting Waters Charter - East Bay",
+    "School Type": "K-12 Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "August 16, 2017",
+    "Educational Program Type": "Traditional",
+    "Low Grade": "K",
+    "High Grade": 12,
+    "Public School": "Yes",
+    "Charter Number": "1881",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": "0602159",
+    "NCES Federal School ID": "14091",
+    "Enrollment": 505,
+    "English Language Learners": {
+        "Count": 27,
+        "Percentage": 5.3
+    },
+    "Full Address": "703 C St. Union City, CA 94587-2195",
+    "Street Address": "703 C",
+    "Address Line 2": "",
+    "City": "St. Union City",
+    "State": "CA",
+    "Zip Code": "94587-2195",
+    "Mailing Address": "12420 Bentley St. Waterford, CA 95386-9150",
+    "Phone Number": "(209) 874-1119 Ext. 6",
+    "Fax Number": "(209) 874-9531",
+    "Email": "jlevers@cwcharter.org",
+    "Web Address": "www.cweastbay.org",
+    "Administrators": [
+        {
+            "Name & Position": "Mrs. Jerri Levers Executive Director Ext. 6",
+            "Phone": "(209) 874-1119",
+            "Email": "jlevers@cwcharter.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "September 11, 2024",
+    "Black Population Ratio": null
+}

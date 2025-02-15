@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170130401",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Alameda County Juvenile Hall/Court",
+    "School Type": "Juvenile Court Schools",
+    "Sector Type": "Public",
+    "Charter School": "No",
+    "Status": "Active",
+    "Open Date": "July 1, 1980",
+    "Educational Program Type": "Juvenile Court School",
+    "Low Grade": "K",
+    "High Grade": 12,
+    "Public School": "Yes",
+    "Charter Number": null,
+    "Charter Funding Type": null,
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": null,
+    "NCES Federal School ID": "09264",
+    "Enrollment": 43,
+    "English Language Learners": {
+        "Count": 5,
+        "Percentage": 11.6
+    },
+    "Full Address": "2500 Fairmont Ave. San Leandro, CA 94578-1005",
+    "Street Address": "2500 Fairmont Ave.",
+    "Address Line 2": "",
+    "City": "San Leandro",
+    "State": "CA",
+    "Zip Code": "94578-1005",
+    "Mailing Address": "2500 Fairmont Ave. San Leandro, CA 94578-1005",
+    "Phone Number": "(510) 670-7609",
+    "Fax Number": "(510) 618-3412",
+    "Email": "Information Not Available",
+    "Web Address": "www.acoe.org",
+    "Administrators": [
+        {
+            "Name & Position": "Jessica Goode Principal",
+            "Phone": "(510) 670-7696",
+            "Email": "jgoode@acoe.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "December 16, 2024",
+    "Black Population Ratio": 0.10232677422363144
+}

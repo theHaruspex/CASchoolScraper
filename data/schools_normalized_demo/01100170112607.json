@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170112607",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Envision Academy for Arts & Technology",
+    "School Type": "K-12 Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "August 28, 2006",
+    "Educational Program Type": "Traditional",
+    "Low Grade": 6,
+    "High Grade": 12,
+    "Public School": "Yes",
+    "Charter Number": "0811",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": "0601614",
+    "NCES Federal School ID": "10947",
+    "Enrollment": 223,
+    "English Language Learners": {
+        "Count": 43,
+        "Percentage": 19.3
+    },
+    "Full Address": "1515 Webster St. Oakland, CA 94612-3355",
+    "Street Address": "1515 Webster St.",
+    "Address Line 2": "",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip Code": "94612-3355",
+    "Mailing Address": "1515 Webster St. Oakland, CA 94612",
+    "Phone Number": "(510) 596-8901",
+    "Fax Number": "(510) 596-8905",
+    "Email": "info@envisionacademy.org",
+    "Web Address": "www.envisionacademy.org/",
+    "Administrators": [
+        {
+            "Name & Position": "Elizabeth Raji-Greg Superintendent of Schools",
+            "Phone": "(510) 451-2415",
+            "Email": "compliance@envisionschools.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "August 8, 2024",
+    "Black Population Ratio": 0.21162921760167147
+}

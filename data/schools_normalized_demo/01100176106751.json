@@ -1,0 +1,49 @@
+{
+    "CDS Code": "01100176106751",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Alameda County Special Education",
+    "School Type": "Special Education Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "No",
+    "Status": "Active",
+    "Open Date": "July 1, 1980",
+    "Educational Program Type": "Special Education School",
+    "Low Grade": "P",
+    "High Grade": "P",
+    "Public School": "Yes",
+    "Charter Number": null,
+    "Charter Funding Type": null,
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": null,
+    "NCES Federal School ID": "08672",
+    "Enrollment": 0,
+    "English Language Learners": null,
+    "Full Address": "313 West Winton Ave. Hayward, CA 94544-1136",
+    "Street Address": "313 Winton Ave.",
+    "Address Line 2": "",
+    "City": "Hayward",
+    "State": "CA",
+    "Zip Code": "94544-1136",
+    "Mailing Address": "313 West Winton Ave. Hayward, CA 94544-1136",
+    "Phone Number": "(510) 723-3857",
+    "Fax Number": "(510) 670-4208",
+    "Email": "Information Not Available",
+    "Web Address": "www.acoe.org",
+    "Administrators": [
+        {
+            "Name & Position": "Monica Vaughan Chief of Schools",
+            "Phone": "(510) 670-4242",
+            "Email": "mvaughan@acoe.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "October 13, 2021",
+    "Black Population Ratio": 0.09244901236550505
+}

@@ -1,0 +1,52 @@
+{
+    "CDS Code": "01100170130625",
+    "County": "Alameda",
+    "District": "Alameda County Office of Education",
+    "School": "Alternatives in Action",
+    "School Type": "High Schools (Public)",
+    "Sector Type": "Public",
+    "Charter School": "Yes",
+    "Status": "Active",
+    "Open Date": "September 4, 2001",
+    "Educational Program Type": "Traditional",
+    "Low Grade": 9,
+    "High Grade": 12,
+    "Public School": "Yes",
+    "Charter Number": "0398",
+    "Charter Funding Type": "Directly funded",
+    "Magnet School": "No",
+    "Year Round": "No",
+    "Virtual Instruction": "Not Virtual",
+    "Multilingual Instruction": "No",
+    "Federal Charter District ID": "0601635",
+    "NCES Federal School ID": "08674",
+    "Enrollment": 132,
+    "English Language Learners": {
+        "Count": 71,
+        "Percentage": 53.8
+    },
+    "Full Address": "6221 East 17th St. Oakland, CA 94621-4107",
+    "Street Address": "6221 17th St.",
+    "Address Line 2": "",
+    "City": "Oakland",
+    "State": "CA",
+    "Zip Code": "94621-4107",
+    "Mailing Address": "6221 East 17th St. Oakland, CA 94621-4107",
+    "Phone Number": "(510) 748-4314",
+    "Fax Number": "(510) 748-4326",
+    "Email": "Information Not Available",
+    "Web Address": "www.alternativesinaction.org",
+    "Administrators": [
+        {
+            "Name & Position": "Daniel Zarazua Administrator",
+            "Phone": "(510) 285-6290",
+            "Email": "dzarazua@alternativesinaction.org"
+        }
+    ],
+    "CDS Coordinator": {
+        "Name": "Abraham Zamora",
+        "Phone": "(510) 670-4131"
+    },
+    "Last Updated": "August 8, 2024",
+    "Black Population Ratio": 0.21162921760167147
+}
