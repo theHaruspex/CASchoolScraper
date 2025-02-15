@@ -1,8 +1,8 @@
 # California School Data Scraper & Lead Generation
 
 > **Project Type**: One-time Data Scraping & Normalization Pipeline  
-> **Author**: *[theHaruspex]*  
-> **Last Updated**: *[Date]*  
+> **Author**: Derious Vaughn  
+> **Last Updated**: February 15th, 2025
 
 ---
 
