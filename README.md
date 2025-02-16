@@ -149,13 +149,11 @@ python pipeline.py
 
 - **Expand Demographics**: Add Hispanic/other data.  
 - **Geographic Expansion**: Support for nationwide scraping.  
-- **Email Outreach Integration**: Direct CRM/email API connections.
 
 ---
 
 ## Acknowledgments
 - **California Department of Education** for the school directory data.  
 - **Public IRS/City Data** for demographic information.  
-- **Contributors** for refactoring and modularizing the code.
 
 ---
